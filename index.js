@@ -15,7 +15,7 @@ const data = [
         city: "Kolkata",
         language: "JavaScript",
         framework: "Sass",
-        image: "https://instagram.fdel5-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.0.1079.1079a/s480x480/74345481_2421921051188835_4026636079591667522_n.jpg?_nc_ht=instagram.fdel5-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ukvmLlRbwtkAX--WXAW&oh=fc73f754cf79a7c960ce15e77246f1bb&oe=5F4AF9F5"
+        image: "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
         name: "Ankit",
