@@ -23,7 +23,7 @@ const data = [
         city: "Kolkata",
         language: "JavaScript",
         framework: "Sass",
-        image: "https://instagram.fdel5-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c113.0.854.854a/s640x640/72428711_754775384984193_1332530063681477775_n.jpg?_nc_ht=instagram.fdel5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=CDfxJPAh1WcAX8EVEt6&oh=29dd72c8dbbdbf8f273a25cd7a7ce9b8&oe=5F4AFB6F"
+        image: "https://images.pexels.com/photos/185725/pexels-photo-185725.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
     {
         name: "Anoop",
@@ -31,7 +31,7 @@ const data = [
         city: "Kolkata",
         language: "JavaScript",
         framework: "Sass",
-        image: "https://instagram.fdel5-1.fna.fbcdn.net/v/t51.2885-15/e35/109300674_325366395158541_8486482353756455835_n.jpg?_nc_ht=instagram.fdel5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=U5TqsIUUS5cAX-SdxLx&oh=92bda69f276a58c540c8a21bf2ae8e26&oe=5F4C428A"
+        image: "https://images.pexels.com/photos/2103864/pexels-photo-2103864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
         name: "Akash",
@@ -39,7 +39,7 @@ const data = [
         city: "Kolkata",
         language: "JavaScript",
         framework: "Sass",
-        image: "https://instagram.fdel5-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/30079523_241815269700294_4241246755594698752_n.jpg?_nc_ht=instagram.fdel5-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Y7AeKixsOhUAX_jKm0k&oh=ffd4f1362168dcd6ea6a2e8cbd3e20ef&oe=5F48CE9C"
+        image: "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
 ]
 
