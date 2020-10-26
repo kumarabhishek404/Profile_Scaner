@@ -7,7 +7,7 @@ const data = [
         city: "Kolkata",
         language: "JavaScript",
         framework: "Sass",
-        image: "https://instagram.fdel5-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/83130577_515127015788692_8476706495800366033_n.jpg?_nc_ht=instagram.fdel5-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ESiotOVPYZIAX_WudA-&oh=c025586ae6aed35a71f8399fe6047104&oe=5F4A7D61"
+        image: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
         name: "saurabh",
